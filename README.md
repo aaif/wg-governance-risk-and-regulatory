@@ -9,7 +9,7 @@ The mission of this working group is currently being defined. Check back soon fo
 ## Chairs
 
 * **Chair: Ryan Hagemann (no GitHub)** - IBM
-* **Co-Chair: Junjie Bu [@mindpower](https://github.com/mindpower)** - Google
+* **Co-Chair: Deborah Eng** - JP Morgan Chase
 
 The Working Group Chairs were appointed by the Platinum and Gold members of the working group. 
 
