@@ -2,9 +2,16 @@
 
 For more information, review the Working Group Charter (*coming soon*).
 
+[Draft Charter](https://docs.google.com/document/d/10Q1og5RqKyxgovwXGsQAKZqA7NOLo2DDEzAMFaD4Knc/edit?usp=sharing)
+
 ## Mission
 
 The mission of this working group is currently being defined. Check back soon for updates.
+
+_Draft_
+
+- **Pre-Competitive Alignment**: Create shared frameworks that help members align agentic innovation with legal, ethical, and regulatory expectations.
+- **Reducing Uncertainty**: Provide clarity and common language for engaging regulators, auditors, and internal risk teams.
 
 ## Chairs
 
@@ -17,7 +24,7 @@ Current term for the Working Group Chairs is **March 1, 2026 - January 31, 2027*
 
 ## Meetings
 
-This working group meets **bi-weekly on Thursdays at 10:00AM PT** (USA Pacific Time; [Convert to local time zone](http://www.thetimezoneconverter.com/?t=10:00AM&tz=San%20Francisco)).
+This working group meets **bi-weekly on Thursdays at 10:00AM PT** (USA Pacific Time; [Convert to local time zone](http://www.thetimezoneconverter.com/?t=10:00AM&tz=San%20Francisco)).  this is a consistent weekly meeting time, rotating or changing pursuant to a general group consensus.
 
 **[Join the Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/96669513178?password=2bff1cd4-5199-4697-a883-21f898282c2e)** - Please note the meeting link will only work for those that have signed up for the working group.
 
@@ -27,7 +34,7 @@ If someone from an AAIF member organization would like to join, please [sign up 
 
 ## Meeting Agenda and Minutes
 
-[Running Notes Doc](https://docs.google.com/document/d/19NDS91iPYp_85upWz5AP966SOlmL6fo359GxHlK9rQw/edit?usp=sharing)
+[Running Notes Doc](https://docs.google.com/document/d/19NDS91iPYp_85upWz5AP966SOlmL6fo359GxHlK9rQw/edit?tab=t.0)
 
 All meeting recordings and AI summaries can be found on your [LFX Individual Dashboard](openprofile.dev). Create a Linux Foundation (LFX) account to see all meetings, AI summaries, recordings, etc. all in one place.
 
