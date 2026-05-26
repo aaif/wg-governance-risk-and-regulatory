@@ -70,7 +70,7 @@ The work of this WG supports:
 
 ### **4\. Goals, Deliverables, and Success Criteria**
 
-**12-Month Goals** (recommended: 3–6)
+**3-6 Month Goals** 
 
 The working group’s initial goal for 2026 will focus on producing three report-style deliverables examining, analyzing, and distilling the existing landscape of governance frameworks, best practices, standards, and other policy guidance documents addressing agentic AI deployment.
 
@@ -82,12 +82,12 @@ For each deliverable, define owner, format, and target date.
    * Mapping areas of regulatory alignment — and misalignment — across jurisdictions, affecting agent deployment or cross-border orchestration; and  
    * Examining how open-source licensing and policy environments may influence the development and adoption of open agent frameworks.
 
-2. **6-Month Goal:** Gap analysis (to articulate where the gaps are in the regulatory environment). Such analysis may include examining:  
+2. **3-6 Month Goal:** Gap analysis (to articulate where the gaps are in the regulatory environment). Such analysis may include examining:  
    * The extent to which policy guidance on secure enterprise deployment of autonomous or semi-autonomous agents exists;  
    * The existence, or lack thereof, of standardized approaches for agent-level threat modeling and system security; and  
    * The prevalence, or completeness, of frameworks for agent-specific incident reporting and post-deployment accountability.  
        
-3. **9-Month Goal:** Drafting and distillation of potential recommendations for how organizations can better mitigate agentic AI policy-related risks. Such recommendations may potentially include assessments of the viability of using:  
+3. **6-Month Goal:** Drafting and distillation of potential recommendations for how organizations can better mitigate agentic AI policy-related risks. Such recommendations may potentially include assessments of the viability of using:  
    * Standardized risk classification schemas;  
    * Guidance for organizational governance of deployed agents (e.g., approval, monitoring, and override pathways); and  
    * AI Agent Bill(s) of Materials for securing supply chain inconsistencies.
@@ -118,9 +118,9 @@ A deliverable is considered complete when:
 
 * **Cadence:** Weekly  
 * **Duration:** 60 minutes  
-* **Time Zone Considerations:** Consistent weekly meeting time  
+* **Time Zone Considerations:** Consistent weekly meeting time, rotating or changing pursuant to a general group consensus
 * **Open Meetings:** Yes  
-* **Minutes/Notes:** \[where notes are stored\]  
+* **Minutes/Notes:** (Meeting Notes)[https://docs.google.com/document/d/19NDS91iPYp_85upWz5AP966SOlmL6fo359GxHlK9rQw/edit?tab=t.0]  
 * **Recordings:** N/A
 
 **Communication Channels**
