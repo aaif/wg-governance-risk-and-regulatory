@@ -1,17 +1,10 @@
 # Governance, Risk and Regulatory Working Group
 
-For more information, review the Working Group Charter (*coming soon*).
-
-[Draft Charter](https://docs.google.com/document/d/10Q1og5RqKyxgovwXGsQAKZqA7NOLo2DDEzAMFaD4Knc/edit?usp=sharing)
+For more information, review the Working Group Charter [(*pending approval*)](https://github.com/aaif/wg-governance-risk-and-regulatory/pull/1/changes).
 
 ## Mission
 
-The mission of this working group is currently being defined. Check back soon for updates.
-
-_Draft_
-
-- **Pre-Competitive Alignment**: Create shared frameworks that help members align agentic innovation with legal, ethical, and regulatory expectations.
-- **Reducing Uncertainty**: Provide clarity and common language for engaging regulators, auditors, and internal risk teams.
+The Governance, Risk & Regulatory Alignment Working Group advances the Agentic AI Foundation’s mission by serving as a bridge between global AI policy developments and the technical advancements in the field of agentic AI systems.
 
 ## Chairs
 
