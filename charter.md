@@ -6,8 +6,8 @@
 
 * **Working Group Name:** Governance, Risk & Regulatory Alignment  
 * **Short Name / Acronym:** GRRA WG  
-* **Date Approved:** \[YYYY-MM-DD\]  
-* **Last Updated:** \[YYYY-MM-DD\]  
+* **Date Approved:** \[2026-06-01\]  
+* **Last Updated:** \[2026-06-01\]  
 * **Homepage / Repo (if applicable):** N/A  
 * **Primary Contact (Chair/Lead):** Ryan Hagemann, ryan.hagemann@ibm.com
 
