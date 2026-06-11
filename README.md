@@ -1,6 +1,6 @@
 # Governance, Risk and Regulatory Working Group
 
-For more information, review the Working Group Charter [(*pending approval*)](https://github.com/aaif/wg-governance-risk-and-regulatory/pull/1/changes).
+For more information, review the [Working Group Charter](https://github.com/aaif/wg-governance-risk-and-regulatory/blob/main/charter.md).
 
 ## Mission
 
