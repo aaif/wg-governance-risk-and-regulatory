@@ -1,4 +1,4 @@
-# [Report] Working Group Name – Month YYYY
+# [Report] Government, Risk & Regulatory Alignment – Month YYYY
 
 
 <!--
@@ -12,11 +12,11 @@ HOW TO USE THIS TEMPLATE
 Delete these comments before submitting.
 -->
 
-**Working Group:** <WG name>
+**Working Group:** WG Government, Risk & Regulatory Alignment
 
 **Reporting period:** <Month YYYY>
 
-**Chair(s):** <name(s)>
+**Chair(s):** Ryan Hagemann (IBM) & Deborah Eng (JPMorgan Chase)
 
 **Date submitted:** <YYYY-MM-DD>
 
@@ -25,6 +25,7 @@ Delete these comments before submitting.
 ## Summary
 
 <!-- 2–3 sentences capturing the month at a glance. -->
+-
 
 ## Progress Against Objectives
 
