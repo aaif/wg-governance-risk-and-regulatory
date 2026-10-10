@@ -7,9 +7,9 @@
 * **Working Group Name:** Governance, Risk & Regulatory Alignment  
 * **Short Name / Acronym:** GRRA WG  
 * **Date Approved:** \[2026-06-01\]  
-* **Last Updated:** \[2026-06-01\]  
+* **Last Updated:** \[2026-10-10\]  
 * **Homepage / Repo (if applicable):** N/A  
-* **Primary Contact (Chair/Lead):** Ryan Hagemann, ryan.hagemann@ibm.com
+* **Primary Contact (Chair/Lead):** Deborah Eng, deborah.eng@jpmorgan.com
 
 ---
 
@@ -158,8 +158,8 @@ A deliverable is considered complete when:
 
 **Leadership Structure**
 
-* **Chair(s):** Ryan Hagemann  
-* **Co-Chair(s) (optional):** Debbie Eng  
+* **Chair(s):** Deborah Eng 
+* **Co-Chair(s) (optional):** Sriram Natarajan  
 * **Tech Lead(s) (optional):** N/A  
 * **Secretary/Program Manager (optional):** N/A
 
