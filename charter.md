@@ -39,8 +39,11 @@ The work of this WG supports:
 **In Scope** (what the WG will do)
 
 * Identify, track, and monitor existing, and emerging, global regulations, standards, best practices, and other AI-relevant policy frameworks that affect the regulatory treatment of agentic AI systems  
-* Examine how protocols (e.g., MCP and others) are implemented at an organizational level in the context of other governance processes around Agentic AI.  
+* Operationalizing Governance: Develop practical guidance and specifications that translate legal and regulatory requirements into practice, specifically:
+  * Legal Context Schema: A standardized schema defining an agent's operative legal context (jurisdiction, delegation of authority, and compliance boundaries).
+  * Evidence vs. Logs Best Practice Guide: Guidance articulating the difference between system logs and legally defensible audit evidence, and how implementors should build evidence that holds up to regulatory scrutiny.
 * In the future, the working group may further examine some of the following:  
+  * Examine how protocols (e.g., MCP and others) are implemented at an organizational level in the context of other governance processes around Agentic AI.
   * Propose standards and/or updates to existing standards to incorporate governance into agentic flows  
   * Governance, frameworks, policies for deploying agents in organizational settings  
   * Policy recommendations to ensure continued adoption of open source agentic AI projects  
@@ -159,8 +162,8 @@ A deliverable is considered complete when:
 
 **Leadership Structure**
 
-* **Chair(s):** Ryan Hagemann  
-* **Co-Chair(s) (optional):** Debbie Eng  
+* **Chair(s):** Debbie Eng  
+* **Co-Chair(s) (optional):** Sriram Natarajan  
 * **Tech Lead(s) (optional):** N/A  
 * **Secretary/Program Manager (optional):** N/A
 
