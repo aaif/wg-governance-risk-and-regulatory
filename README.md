@@ -8,8 +8,8 @@ The Governance, Risk & Regulatory Alignment Working Group advances the Agentic A
 
 ## Chairs
 
-* **Chair: Ryan Hagemann (no GitHub)** - IBM
-* **Co-Chair: Deborah Eng (no GitHub)** - JP Morgan Chase
+* **Chair: Deborah Eng (no GitHub)** - JP Morgan Chase
+* **Co-Chair: Sriram Natarajan** - Google
 
 The Working Group Chairs were appointed by the Platinum and Gold members of the working group. 
 
